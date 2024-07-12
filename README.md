@@ -1,2 +1,0 @@
-# Durgesh
-demo-student.
